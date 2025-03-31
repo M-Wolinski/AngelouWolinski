@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "M-Wolinski",
+    "is_private": false,
+    "title": "Retry ENGL 483 Maya Angelou MWolinski",
+    "description": "A formal analysis of figure of speech within Maya Angelou's famous poem \"And Still I Rise\" created for the University of Alberta ENGL 483 Class. Winter semester 2025.",
+    "language": "en",
+    "slug": "AngelouWolinski",
+    "creator": "M-Wolinski",
+    "authors": "Meriah Wolinski",
+    "media_player": "aviary",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-31T17:01:55.918Z",
+    "updated_at": "2025-03-31T17:01:55.918Z"
   }
 }
