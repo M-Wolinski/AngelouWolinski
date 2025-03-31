@@ -1,5 +1,1169 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone in the world has gone to bed one night or another with fear, or pain, or loss…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "7c8719b4-9e10-4418-aba1-6b80d2ac8c16"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Pause* "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "204508fd-d7e3-4405-9169-15107ba9e11d"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or disappointment. Yet each of us has awaken or risen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "ced15093-5c18-446d-a022-d27612713212"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of footsteps from Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "b70d2ebf-6e5e-419a-bea2-f4a4e70d125c"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uhh- somehow made our *Inaudible* seen other human beings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "c45d70a0-3a51-4786-abfd-658962e6d1d9"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And said \"Morning! How are you?\" \"Fine thanks, and you?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "daab36ae-ca15-40d5-9e93-3f0d90cfa94b"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s amazing and wherever that abides in the human being"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "8028d8c3-4993-4a51-9854-b52df70a9ba6"
+    },
+    {
+      "start_time": 24,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is the nobleness of the human spirit"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "1d843eb5-421a-4713-94dc-2f47b108c15d"
+    },
+    {
+      "start_time": 27,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite it all, black and white, asian, spanish, native american, pretty, plain, thin..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "972ed261-20c7-4f1b-9c5c-d7a227c880d7"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Pause* "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "815dcb62-e56d-444d-9a2f-85d7e1b326f6"
+    },
+    {
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fat..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "e5b5cd6f-0511-4715-8106-6df3a0a22506"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Ambient Noise*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "d50e6195-d287-433d-8411-40e6a247aff9"
+    },
+    {
+      "start_time": 38,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vowed as *inaudible* we rise…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "71ff4564-a249-4711-9047-2836b195912f"
+    },
+    {
+      "start_time": 42,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may write me down in history with your bitter, twisted lies"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "8c08be0c-65a9-4625-978e-67d9b2babf20"
+    },
+    {
+      "start_time": 42,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"You\" is not addressed to the audience, but rather a theoretical third person who embodies racial oppression and historical injustice. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "051d42d1-f8da-4702-a214-c29c6f8d10e1"
+    },
+    {
+      "start_time": 47,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may trod me in the very dirt but still, like dust, I'll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "7253f797-6981-4f3f-97df-e82551cbdc9e"
+    },
+    {
+      "start_time": 47,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maya Angelou uses a simile, a figure of speech to explain how she will rise above opression as easy as dust flies through the air. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "d0edcac1-8afb-497e-8efe-bb942126d6c0"
+    },
+    {
+      "start_time": 51,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stress of tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "08159c55-e2b0-457b-b12e-046e55a28aa3"
+    },
+    {
+      "start_time": 54,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you? Why are you beset with gloom? ‘Cause I walk like I've got oil wells pumping in my living room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c03eafd8-f876-401b-9089-665a9b940d5a"
+    },
+    {
+      "start_time": 54,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The figure of speech is used to explain that she holds herself with great value and her confidence is comparable to someone who is extremely wealthy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "30aac1c8-187b-4647-9632-1656bc901010"
+    },
+    {
+      "start_time": 65,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like moons and like suns, with the certainty of tides. Just like hopes springing high. Still I'll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f9d26ff7-bc87-4778-802a-4f5ef5826c62"
+    },
+    {
+      "start_time": 65,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Figure of speech using similes to compare her persistence to the tides, the sun and moon which will continue to cycle nevertheless. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "5af02abf-4172-4336-b7f2-9bbe3360ef86"
+    },
+    {
+      "start_time": 73,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stress of tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "d7bf3807-944e-40ec-85c4-a44b6d55ff6e"
+    },
+    {
+      "start_time": 75,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you want to see me broken? Bowed head and lowered eyes? Shoulders falling down like teardrops. Weakened by my soulful cries?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "a6db8d69-1e89-4587-b5d2-be047fe37e93"
+    },
+    {
+      "start_time": 85,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "14554b5c-0077-44f7-aa5f-2b7f02a1ef31"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Laughing*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "e9554617-3956-4456-a522-ad696862d011"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speakers laughter is a symbol of confidence and strength. She is taunting by laughing in the face of her oppressor and emphasizing her self-confidence. She is proud of who she is and finds it symultanious hilarious and ridiculous that the oppressor wants her to be ashamed of who she is because she is black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "b418e221-bba4-405d-b76a-17eecfda920d"
+    },
+    {
+      "start_time": 89,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't take it so hard just cause I laugh"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "08f09902-e3b2-4a0d-b426-76b41ec009a5"
+    },
+    {
+      "start_time": 92,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Hearty Laughter*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "69422462-f1c1-4409-a53d-8871f4f682c8"
+    },
+    {
+      "start_time": 95,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As if I have gold mines diggin’ in my own backyard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "8d6e9f7c-8753-4867-9f9e-79fad19f179f"
+    },
+    {
+      "start_time": 95,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this simile, Angelou is referring to the idea that she is laughing as much as someone who has unlimited wealth. She is overjoyed with her life and unapologetically herself, no matter what anyone thinks of her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "baa24149-51da-4d65-8b86-288bb7a858ee"
+    },
+    {
+      "start_time": 100,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can shoot me with your words. You can cut me with your lies. You can kill me with your hatefulness, but just like life…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "329a5a18-a539-4df3-885d-939f5100f347"
+    },
+    {
+      "start_time": 100,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This use of figure of speech is comparing gun violence and the pain inflicted by a sharp weapon to the verbal abuse and hatered commited by the oppressor. While Maya Angelou is not facing physical assault, she withstands the verbal abuse and racism. She is not allowing the theoretical \"you\" to diminish her self worth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "16be36bc-5f6a-4726-bb2d-34e75db1dec2"
+    },
+    {
+      "start_time": 108,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Pause* "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "ce5e2b61-269c-4ae1-9597-7a0b76f6d879"
+    },
+    {
+      "start_time": 109,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I’ll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "fa4dcfa6-41d5-45f4-b3f4-1ffd175f4319"
+    },
+    {
+      "start_time": 111,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sexiness offend you? Aww."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1c290262-48fa-4eb5-9d73-a58dea692f05"
+    },
+    {
+      "start_time": 111,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this expression, she is sarcastically mimicking sympathy for the theoretical \"you\" who is upset that she is an empowered black woman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "e10f34cd-611e-44ff-804a-f45c3d852f0c"
+    },
+    {
+      "start_time": 115,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does it come as a surprise that I dance..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "004b8376-93cc-4615-8ecb-1973259767ed"
+    },
+    {
+      "start_time": 119,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noise from her jewelry and clothing as she dances"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "9ebc7075-c982-4a2f-b396-114acf56ddc2"
+    },
+    {
+      "start_time": 122,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as if I have diamonds at the meeting of my thighs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f851f7da-e8c2-42ee-9cd3-eaa90e0046fa"
+    },
+    {
+      "start_time": 122,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This simile is expressing the value and celebration of her body. Through the use of figure of speech, she emphasizes the value of her body by comparing herself to diamonds whilst also expressing unapologetic sexual freedom. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "6efc1f98-6b9e-4c43-b0a9-0e1945e2627c"
+    },
+    {
+      "start_time": 127,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Out of the huts of history’s shame, I rise, up from a past that’s rooted in pain, I rise. A black ocean, leaping and wide, welling and swelling I bear in the tide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "218a5ce9-8df4-4b0f-95b4-2ce338f0db58"
+    },
+    {
+      "start_time": 127,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a refrence to the painful history of slavery in North America. In this case, the \"huts\" represents slaves quarters and her being a descendant of black slaves. She is proud of being black and will not let a \"shameful\" past strip her of her strength. The metaphor of a \"black ocean\" means that she is a powerful black woman. An ocean is a force of nature that is unstoppable, so in this figure of speech she is indicating that she is relentless and will never bow down to the oppressors again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "3afe743d-cd22-4b66-a3f4-7179d482dbc2"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leaving behind nights of terror and fear I rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "22e3e6f6-fa79-4fff-857d-40f6722ec249"
+    },
+    {
+      "start_time": 147,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Into a daybreak miraculously clear, I rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "b358dbc9-575c-4f5c-aeda-f36366516d31"
+    },
+    {
+      "start_time": 152,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bringing the gifts that my ancestors gave"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "0baa21a8-e62e-408a-85fa-186c084cb36d"
+    },
+    {
+      "start_time": 152,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this quote Maya Angelou is explaining that she views her blackness as a gift and legacy that has been inherited by her ancestors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "87437aab-a384-4e8e-8a25-744cfef12e20"
+    },
+    {
+      "start_time": 156,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am the hope and the dream of the slave"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "14ba2a85-4e2c-4c05-af47-0302cd641598"
+    },
+    {
+      "start_time": 156,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou is explaining that her freedom and power that she has in the modern era is the hope that slaves dreamed to one day achieve. She is proof of freedom and power of black people and the ability to rise above the hate and prove that racial injustice cannot hold her down. She is the hope of the future which can only be made possible by the sacrifices black slaves endured and how she rises above the hate."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64344c69-b269-4c2d-86f4-5e95d07ed191"
+    },
+    {
+      "start_time": 161,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so naturally"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "9f1b1c2c-8bef-421e-b79e-e23dc75ebed0"
+    },
+    {
+      "start_time": 164,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clap and Jewelry jingle"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "77256d3f-3d1e-4412-a1aa-aefc929390ee"
+    },
+    {
+      "start_time": 169,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There I go rising"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "c4069ff6-f5b8-401b-95aa-4700591afbb5"
+    }
+  ],
   "set": "Default",
   "event_id": "122785c6-8f57-4d1c-aaef-f871d510e934",
   "source_id": "b1775549-5732-4986-95ce-dc8705d89186"
