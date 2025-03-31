@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "b1775549-5732-4986-95ce-dc8705d89186": {
+      "label": "And Still I Rise",
+      "is_offline": false,
+      "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
+      "duration": 174
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "And Still I Rise",
+  "created_at": "2025-03-31T17:03:20.887Z",
+  "created_by": "M-Wolinski",
+  "updated_at": "2025-03-31T17:03:20.887Z",
+  "updated_by": "M-Wolinski"
+}
