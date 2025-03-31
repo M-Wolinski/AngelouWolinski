@@ -1,6 +1,6 @@
 {
   "publish": {
-    "publish_pages_app": false,
+    "publish_pages_app": true,
     "publish_sha": "",
     "publish_iso_date": ""
   },
@@ -16,13 +16,7 @@
     "authors": "Meriah Wolinski",
     "media_player": "aviary",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "saamturner",
-        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -114,8 +108,8 @@
       ]
     },
     "created_at": "2025-03-31T17:01:55.918Z",
-    "updated_at": "2025-03-31T17:56:12.907Z",
-    "generate_pages_site": false
+    "updated_at": "2025-03-31T18:36:26.254Z",
+    "generate_pages_site": true
   },
   "is_private": false
 }
